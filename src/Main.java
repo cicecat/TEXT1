@@ -1,13 +1,15 @@
 
 public class Main {
-
-	public Main() {
-		// TODO Auto-generated constructor stub
-	}
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		
+		
+		System.out.println("5");
+		
+		
 
-	}
+	int a= 100;
+	System.out.println(a);
 
+}
 }
